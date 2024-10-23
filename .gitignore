@@ -1,0 +1,7 @@
+.pythonlibs/
+.upm/
+node_modules/
+static/temp/
+__pycache__/
+*.pyc
+.env
